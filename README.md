@@ -1,5 +1,5 @@
-# EtAl (@EtAlEtAl)
-- Hi, I’m EtAl (@EtAlEtAl)
+# Et Al (@EtAlEtAl)
+- Hi, I’m Et Al (@EtAlEtAl)
 - Pronouns: They
 - I’m currently working as a HW & SW developer.
 - My Background is in electrical engineering.
